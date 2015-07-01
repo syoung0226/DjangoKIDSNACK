@@ -1,0 +1,205 @@
+[
+{
+    "pk": 1, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ub208"
+    }
+},
+{
+    "pk": 2, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc54c\ub808\ub974\uae30"
+    }
+},
+{
+    "pk": 3, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc2e0\uacbd\uc138\ud3ec \ud30c\uad34"
+    }
+},
+{
+    "pk": 4, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ub9dd\ub9c9 \uc190\uc0c1"
+    }
+},
+{
+    "pk": 5, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ud3b8\ub450\ud1b5"
+    }
+},
+{
+    "pk": 6, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc554"
+    }
+},
+{
+    "pk": 7, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ub3c5\uc131"
+    }
+},
+{
+    "pk": 8, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ube44\ub9cc"
+    }
+},
+{
+    "pk": 9, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ub300\uc0ac\uc99d\ud6c4\uad70"
+    }
+},
+{
+    "pk": 10, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ubcc0\uc774\uc6d0\uc131"
+    }
+},
+{
+    "pk": 11, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ubc1c\uc554\uc131"
+    }
+},
+{
+    "pk": 12, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc911\ub3c5\uc131"
+    }
+},
+{
+    "pk": 13, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc720\uc804\ub3c5\uc131"
+    }
+},
+{
+    "pk": 14, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc6b0\uc6b8\uc99d"
+    }
+},
+{
+    "pk": 15, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uacfc\uc789\ud589\ub3d9\uc99d"
+    }
+},
+{
+    "pk": 16, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc0dd\uc2dd\ub3c5\uc131"
+    }
+},
+{
+    "pk": 17, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc0dd\ud65c\uc2b5\uad00\ubcd1"
+    }
+},
+{
+    "pk": 18, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ud53c\ubd80"
+    }
+},
+{
+    "pk": 19, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ud1b5\ud48d"
+    }
+},
+{
+    "pk": 20, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uce58\uc544\uc6b0\uc2dd"
+    }
+},
+{
+    "pk": 21, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc810\ub9c9\uc190\uc0c1"
+    }
+},
+{
+    "pk": 22, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc124\uc0ac"
+    }
+},
+{
+    "pk": 23, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ub9f9\ub3c5\uc131"
+    }
+},
+{
+    "pk": 24, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc2e0\uc7a5\uae30\ub2a5 \uc800\ud574"
+    }
+},
+{
+    "pk": 25, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uac04\uc138\ud3ec \uc190\uc0c1"
+    }
+},
+{
+    "pk": 26, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc0dd\uc2dd\uc7a5\uc560"
+    }
+},
+{
+    "pk": 27, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc18c\ud654\uae30\ub2a5 \uc7a5\uc560"
+    }
+},
+{
+    "pk": 28, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\ub1cc\uc138\ud3ec \uc190\uc0c1"
+    }
+},
+{
+    "pk": 29, 
+    "model": "food.sideeffect", 
+    "fields": {
+        "name": "\uc601\uc591\ubd84 \ud761\uc218\u318d\uc774\uc6a9 \uc800\ud574"
+    }
+}
+]

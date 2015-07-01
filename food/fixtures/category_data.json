@@ -1,0 +1,642 @@
+[
+{
+    "pk": 1, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ucc29\uc0c9\ub8cc"
+    }
+},
+{
+    "pk": 2, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc99d\uc810\uc81c"
+    }
+},
+{
+    "pk": 3, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uac10\ubbf8\ub8cc"
+    }
+},
+{
+    "pk": 4, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ud6a8\uc18c\uc81c"
+    }
+},
+{
+    "pk": 5, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc5ec\uacfc\ubcf4\uc870\uc81c"
+    }
+},
+{
+    "pk": 6, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ud5a5\ubbf8\uc99d\uc9c4\uc81c"
+    }
+},
+{
+    "pk": 7, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ubcf4\uc874\ub8cc"
+    }
+},
+{
+    "pk": 8, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ud53c\ub9c9\uc81c"
+    }
+},
+{
+    "pk": 9, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc81c\uc870\uc6a9\uc81c"
+    }
+},
+{
+    "pk": 10, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc601\uc591\uac15\ud654\uc81c"
+    }
+},
+{
+    "pk": 11, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc720\ud654\uc81c"
+    }
+},
+{
+    "pk": 12, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uaecc\uae30\ucd08\uc81c"
+    }
+},
+{
+    "pk": 13, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc0b0\ud654\ubc29\uc9c0\uc81c"
+    }
+},
+{
+    "pk": 14, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ucc29\ud5a5\ub8cc"
+    }
+},
+{
+    "pk": 15, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc548\uc815\uc81c"
+    }
+},
+{
+    "pk": 16, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ub450\ubd80\uc751\uace0\uc81c"
+    }
+},
+{
+    "pk": 17, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ud6a8\uc18c\ud65c\uc131\ud654\uc81c"
+    }
+},
+{
+    "pk": 18, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ubd84\uc0ac\uc81c"
+    }
+},
+{
+    "pk": 19, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc0b0\ub3c4\uc870\uc808\uc81c"
+    }
+},
+{
+    "pk": 20, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ucd94\ucd9c\uc6a9\uc81c"
+    }
+},
+{
+    "pk": 21, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ud33d\ucc3d\uc81c"
+    }
+},
+{
+    "pk": 22, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc0b4\uade0\uc81c"
+    }
+},
+{
+    "pk": 23, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ubc00\uac00\ub8e8\uac1c\ub7c9\uc81c"
+    }
+},
+{
+    "pk": 24, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc18c\ud3ec\uc81c"
+    }
+},
+{
+    "pk": 25, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc2b5\uc724\uc81c"
+    }
+},
+{
+    "pk": 26, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ud45c\ubc31\uc81c"
+    }
+},
+{
+    "pk": 27, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uace0\uacb0\ubc29\uc9c0\uc81c"
+    }
+},
+{
+    "pk": 28, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ubc1c\uc0c9\uc81c"
+    }
+},
+{
+    "pk": 29, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc774\uc0b0\ud654\uc5fc\uc18c"
+    }
+},
+{
+    "pk": 30, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ubd84\uc0b0\uc81c"
+    }
+},
+{
+    "pk": 31, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc99d\ub7c9\uc81c"
+    }
+},
+{
+    "pk": 32, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ud0c4\uc0b0\uc81c"
+    }
+},
+{
+    "pk": 33, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ud76c\uc11d\uc81c"
+    }
+},
+{
+    "pk": 34, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc0c9\uc18c\uc720\uc9c0\uc81c"
+    }
+},
+{
+    "pk": 35, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc720\ud654\uc81c\uc5fc\ub958"
+    }
+},
+{
+    "pk": 36, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uace0\uacb0\uc81c"
+    }
+},
+{
+    "pk": 37, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uae30\ud3ec\uc81c"
+    }
+},
+{
+    "pk": 38, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uac94\ud615\uc131\uc81c"
+    }
+},
+{
+    "pk": 39, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uad11\ud0dd\uc81c"
+    }
+},
+{
+    "pk": 40, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ucda9\uc9c4\uc81c"
+    }
+},
+{
+    "pk": 41, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uae08\uc18d\uc870\uc808\uc81c"
+    }
+},
+{
+    "pk": 42, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc0b0\ubbf8\ub8cc"
+    }
+},
+{
+    "pk": 43, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc870\ubbf8\ub8cc"
+    }
+},
+{
+    "pk": 44, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\uc751\uace0\uc81c"
+    }
+},
+{
+    "pk": 45, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ubcf4\uc2b5\uc81c"
+    }
+},
+{
+    "pk": 46, 
+    "model": "food.category", 
+    "fields": {
+        "type": "additive_category", 
+        "name": "\ud569\uc131\uac10\ubbf8\ub8cc"
+    }
+},
+{
+    "pk": 47, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uacfc\uc790\ub958"
+    }
+},
+{
+    "pk": 48, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uba74\ub958"
+    }
+},
+{
+    "pk": 49, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uacfc\uc77c\u00b7\ucc44\uc18c\ub958\uc74c\ub8cc"
+    }
+},
+{
+    "pk": 50, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ud0c4\uc0b0\uc74c\ub8cc\ub958"
+    }
+},
+{
+    "pk": 51, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uae30\ud0c0\uc74c\ub8cc"
+    }
+},
+{
+    "pk": 52, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc7bc\ub958"
+    }
+},
+{
+    "pk": 53, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc5b4\uc721\uac00\uacf5\ud488"
+    }
+},
+{
+    "pk": 54, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc2dd\uc6a9\uc720\uc9c0\ub958"
+    }
+},
+{
+    "pk": 55, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc778\uc0bc\u00b7\ud64d\uc0bc\uc74c\ub8cc"
+    }
+},
+{
+    "pk": 56, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ud2b9\uc218\uc758\ub8cc\uc6a9\ub3c4\ub4f1\uc2dd\ud488"
+    }
+},
+{
+    "pk": 57, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc7a5\uae30\ubcf4\uc874\uc2dd\ud488"
+    }
+},
+{
+    "pk": 58, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc601\u00b7\uc720\uc544\uc6a9 \uace1\ub958\uc870\uc81c\uc2dd"
+    }
+},
+{
+    "pk": 59, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ube75 \ub610\ub294 \ub5a1\ub958"
+    }
+},
+{
+    "pk": 60, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ucf54\ucf54\uc544\uac00\uacf5\ud488\ub958 \ub610\ub294 \ucd08\ucf5c\ub9bf\ub958"
+    }
+},
+{
+    "pk": 61, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc989\uc11d\uc12d\ucde8\u00b7\ud3b8\uc758\uc2dd\ud488\ub958"
+    }
+},
+{
+    "pk": 62, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc6b0\uc720\ub958"
+    }
+},
+{
+    "pk": 63, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uac00\uacf5\uc720\ub958"
+    }
+},
+{
+    "pk": 64, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ubc1c\ud6a8\uc720\ub958 "
+    }
+},
+{
+    "pk": 65, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ubd84\uc720\ub958 "
+    }
+},
+{
+    "pk": 66, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc544\uc774\uc2a4\ud06c\ub9bc\ub958 "
+    }
+},
+{
+    "pk": 67, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ucee4\ud53c"
+    }
+},
+{
+    "pk": 68, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ub450\uc720\ub958"
+    }
+},
+{
+    "pk": 69, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc800\uc9c0\ubc29\uc6b0\uc720\ub958 "
+    }
+},
+{
+    "pk": 70, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uaddc\uaca9\uc678\uc77c\ubc18\uac00\uacf5\uc2dd\ud488"
+    }
+},
+{
+    "pk": 71, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc131\uc7a5\uae30\uc6a9 \uc870\uc81c\uc2dd"
+    }
+},
+{
+    "pk": 72, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ub2e4\ub958"
+    }
+},
+{
+    "pk": 73, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ub545\ucf69 \ub610\ub294 \uacac\uacfc\ub958 \uac00\uacf5\ud488\ub958"
+    }
+},
+{
+    "pk": 74, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uacfc\u00b7\ucc44\uac00\uacf5\ud488\ub958"
+    }
+},
+{
+    "pk": 75, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ub2f9\ub958"
+    }
+},
+{
+    "pk": 76, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc18c\uc2a4\ub958"
+    }
+},
+{
+    "pk": 77, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\ud31d\ucf58\uc6a9\uc625\uc218\uc218\uac00\uacf5\ud488"
+    }
+},
+{
+    "pk": 78, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc544\uc774\uc2a4\ud06c\ub9bc\ubbf9\uc2a4\ub958 "
+    }
+},
+{
+    "pk": 79, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc2dc\ub9ac\uc5bc"
+    }
+},
+{
+    "pk": 80, 
+    "model": "food.category", 
+    "fields": {
+        "type": "snack_category", 
+        "name": "\uc0c1\uc628\uc18c\uc138\uc9c0"
+    }
+}
+]
